@@ -1,0 +1,2 @@
+59 * * * * /home/roux/MBR/putpic2home.sh
+5 0 * * * /home/roux/MBR/put5days.sh
